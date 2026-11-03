@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<National_Parks>
+  <National_Park Rating="4.9">
+    <Name>
+      Grand Canyon
+    </Name>
+    <Phone>
+      928-638-7496
+    </Phone>
+    <Phone>
+      888-297-2757
+    </Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>
+        8
+      </Number>
+      <Street>
+        S Entrance Road
+      </Street>
+      <City>
+        Grand Canyon
+      </City>
+      <State>
+        AZ
+      </State>
+      <Zip>
+        86023
+      </Zip>
+    </Address>
+  </National_Park>
+  <National_Park>
+    <Name>
+      Yellowstone
+    </Name>
+    <Phone>
+      241-567-4421
+    </Phone>
+    <Phone>
+      924-543-2934
+    </Phone>
+    <Phone>
+      492-859-3931
+    </Phone>
+    <Address NearestAirport="Yellowstone Airport">
+      <Number>
+        2
+      </Number>
+      <Street>
+        Officers Row
+      </Street>
+      <City>
+        Yellowstone National Park
+      </City>
+      <State>
+        WY
+      </State>
+      <Zip>
+        82190
+      </Zip>
+    </Address>
+  </National_Park>
+</National_Parks>
